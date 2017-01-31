@@ -1,0 +1,7 @@
+Compile with: make
+
+Run with: make run
+
+If you want to redirect error output to file use: make run 2>myfile
+
+Clean up with: make clean
